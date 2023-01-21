@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//news238.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://news238.com/</loc>
+		<lastmod>2022-10-18T18:44:55+05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://news238.com/disclaimer/</loc>
+		<lastmod>2022-09-14T19:43:44+05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://news238.com/about-us/</loc>
+		<lastmod>2022-09-14T19:39:14+05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://news238.com/contact-us/</loc>
+		<lastmod>2022-09-14T19:36:35+05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://news238.com/dmca/</loc>
+		<lastmod>2022-09-14T19:34:14+05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://news238.com/privacy-policy/</loc>
+		<lastmod>2022-09-14T18:59:42+05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://news238.com/terms-and-conditions/</loc>
+		<lastmod>2022-09-14T18:49:08+05:00</lastmod>
+	</url>
+</urlset>

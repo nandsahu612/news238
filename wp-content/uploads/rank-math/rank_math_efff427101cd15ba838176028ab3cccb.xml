@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//news238.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://news238.com/post-sitemap.xml</loc>
+		<lastmod>2022-11-08T12:32:56+05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://news238.com/page-sitemap.xml</loc>
+		<lastmod>2022-10-18T18:44:55+05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://news238.com/category-sitemap.xml</loc>
+		<lastmod>2022-11-08T12:32:56+05:00</lastmod>
+	</sitemap>
+</sitemapindex>
