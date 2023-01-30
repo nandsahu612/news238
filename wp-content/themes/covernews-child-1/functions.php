@@ -1,5 +1,6 @@
 <?php
 //Child Theme Functions File
+
 add_action( "wp_enqueue_scripts", "enqueue_wp_child_theme" );
 function enqueue_wp_child_theme() 
 {
@@ -15,7 +16,7 @@ function enqueue_wp_child_theme()
 
 	//This is your child theme stylesheet = style.css
 	wp_enqueue_style("child-css", get_stylesheet_uri());
-
+    //This is your child theme js file = js/script.js
 	//This is your child theme js file = js/script.js
 	wp_enqueue_script("child-js", get_stylesheet_directory_uri() . "/js/script.js", array( "jquery" ), "1.0", true );
 }
