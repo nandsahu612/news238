@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: CoverNews were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://test.news238.com
+Data file = /home/u969147136/domains/news238.com/public_html/test/wp-content/uploads/2023/03/demo-content-import-file_2023-03-01__03-48-06.xml
+Widget file = /home/u969147136/domains/news238.com/public_html/test/wp-content/uploads/2023/03/demo-widgets-import-file_2023-03-01__03-48-06.json
+Customizer file = /home/u969147136/domains/news238.com/public_html/test/wp-content/uploads/2023/03/demo-customizer-import-file_2023-03-01__03-48-06.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Main Sidebar : 
+
+CoverNews Tabbed Posts - No Title - Imported
+Tag Cloud - No Title - Imported
+CoverNews Social Contacts - No Title - Imported
+Meta - No Title - Imported
+
+Front-page Content Section : 
+
+Image - No Title - Imported
+CoverNews Double Categories Posts - No Title - Imported
+CoverNews Posts Slider - No Title - Imported
+Image - No Title - Imported
+CoverNews Posts Grid - No Title - Imported
+CoverNews Posts Carousel - No Title - Imported
+Image - No Title - Imported
+
+Front-page Sidebar Section : 
+
+CoverNews Author Info - No Title - Imported
+Image - No Title - Imported
+CoverNews Tabbed Posts - No Title - Imported
+CoverNews Social Contacts - No Title - Imported
+Image - Advertisement - Imported
+
+Footer First Section : 
+
+Text - AF themes - Imported
+
+Footer Second Section : 
+
+Recent Posts - No Title - Imported
+
+Footer Third Section : 
+
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---af-companion/after_import---
+
